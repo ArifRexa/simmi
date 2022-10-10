@@ -1,0 +1,15 @@
+.nvb{
+    position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+.mrq{
+    background-color: aliceblue;
+}
+.nvbe:hover{
+    border-bottom: 2px solid #f58634;
+    color: #f58634;
+    
+
+}
