@@ -18,74 +18,74 @@ const Speakers = () => {
             <div className="px-5 mt-5">
                 <Slider {...settings} className='gx-5'>
                     <div className='m-1 text-center h-100'>
-                        <img src="https://simmifoundation.org/home/images/speakers/abhimanyu.jpeg" class="card-img-top px-3 " alt="..." />
+                        <img src="https://simmifoundation.org/home/images/speakers/abhimanyu.jpeg" class="card-img-top px-3 " alt="..." />Example Name
                     </div>
                     
                     
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/kevel_kaka.jpg" class="card-img-top px-3 px-3" alt="..." />
+                        <img src="https://simmifoundation.org/home/images/speakers/kevel_kaka.jpg" class="card-img-top px-3 px-3" alt="..." />Example Name
                     </div>
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/rohan_naidu.jpg" class="card-img-top px-3 " alt="." />
+                        <img src="https://simmifoundation.org/home/images/speakers/rohan_naidu.jpg" class="card-img-top px-3 " alt="." />Example Name
                     </div>
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/sneha_agarwal.jpg" class="card-img-top px-3" alt="." />
+                        <img src="https://simmifoundation.org/home/images/speakers/sneha_agarwal.jpg" class="card-img-top px-3" alt="." />Example Name
                     </div>
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/major_nithi.jpg" class="card-img-top px-3" alt=".." />
+                        <img src="https://simmifoundation.org/home/images/speakers/major_nithi.jpg" class="card-img-top px-3" alt=".." />Example Name
                     </div>
                     
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/megha_meelu.jpg" class="card-img-top px-3" alt=".." />
+                        <img src="https://simmifoundation.org/home/images/speakers/megha_meelu.jpg" class="card-img-top px-3" alt=".." />Example Name
                     </div>
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/vikas_kandola.jpg" class="card-img-top px-3" alt=".." />
+                        <img src="https://simmifoundation.org/home/images/speakers/vikas_kandola.jpg" class="card-img-top px-3" alt=".." />Example Name
                     </div>
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/sandeep_narwal.jpg" class="card-img-top px-3" alt="." />
+                        <img src="https://simmifoundation.org/home/images/speakers/sandeep_narwal.jpg" class="card-img-top px-3" alt="." />Example Name
                     </div>
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/naveen_kumar_goyat.jpg" class="card-img-top px-3" alt="." />
+                        <img src="https://simmifoundation.org/home/images/speakers/naveen_kumar_goyat.jpg" class="card-img-top px-3" alt="." />Example Name
                     </div>
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/sandeep_narwal.jpg" class="card-img-top px-3" alt="." />
+                        <img src="https://simmifoundation.org/home/images/speakers/sandeep_narwal.jpg" class="card-img-top px-3" alt="." />Example Name
                     </div>
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/amit_hooda.jpg" class="card-img-top px-3" alt="..." />
+                        <img src="https://simmifoundation.org/home/images/speakers/amit_hooda.jpg" class="card-img-top px-3" alt="..." />Example Name
                     </div>
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/kevel_kaka.jpg" class="card-img-top px-3" alt="..." />
+                        <img src="https://simmifoundation.org/home/images/speakers/kevel_kaka.jpg" class="card-img-top px-3" alt="..." />Example Name
                     </div>
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/mohit_chillar.jpg" class="card-img-top px-3" alt=".." />
+                        <img src="https://simmifoundation.org/home/images/speakers/mohit_chillar.jpg" class="card-img-top px-3" alt=".." />Example Name
                     </div>
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/rohan_naidu.jpg" class="card-img-top px-3" alt="..." />
+                        <img src="https://simmifoundation.org/home/images/speakers/rohan_naidu.jpg" class="card-img-top px-3" alt="..." />Example Name
                     </div>
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/sneha_agarwal.jpg" class="card-img-top px-3" alt=".." />
+                        <img src="https://simmifoundation.org/home/images/speakers/sneha_agarwal.jpg" class="card-img-top px-3" alt=".." />Example Name
                     </div>
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/major_nithi.jpg" class="card-img-top px-3" alt="..." />
+                        <img src="https://simmifoundation.org/home/images/speakers/major_nithi.jpg" class="card-img-top px-3" alt="..." />Example Name
                     </div>
                     <div className='m-1 text-center h-100'>
 
-                        <img src="https://simmifoundation.org/home/images/speakers/abhimanyu.jpeg" class="card-img-top px-3" alt="..." />
+                        <img src="https://simmifoundation.org/home/images/speakers/abhimanyu.jpeg" class="card-img-top px-3" alt="..." />Example Name
                     </div>
 
 

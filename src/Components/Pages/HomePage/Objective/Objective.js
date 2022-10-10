@@ -20,7 +20,7 @@ const Objective = () => {
 
               <Card.Body>
 
-                <Card.Link className='mt-4' style={{ float: "right", textDecoration: "none", fontSize: "1.5rem" }} href="#">Read More </Card.Link>
+                <Card.Link className='mt-2' style={{ float: "right", textDecoration: "none", fontSize: "1.5rem" }} href="#">Read More </Card.Link>
               </Card.Body>
             </Card>
           </Col>
@@ -36,7 +36,7 @@ const Objective = () => {
 
               <Card.Body>
 
-                <Card.Link className='mt-4' style={{ float: "right", textDecoration: "none", fontSize: "1.5rem" }} href="#">Read More </Card.Link>
+                <Card.Link className='mt-5' style={{ float: "right", textDecoration: "none", fontSize: "1.5rem" }} href="#">Read More </Card.Link>
               </Card.Body>
             </Card>
           </Col>
@@ -52,7 +52,7 @@ const Objective = () => {
 
               <Card.Body>
 
-                <Card.Link className='' style={{ float: "right", textDecoration: "none", fontSize: "1.5rem" }} href="#">Read More </Card.Link>
+                <Card.Link className='' style={{ float: "right", textDecoration: "none", fontSize: "1.5rem" ,marginTop:"-25px" }} href="#">Read More </Card.Link>
               </Card.Body>
             </Card>
           </Col>
@@ -68,7 +68,7 @@ const Objective = () => {
 
               <Card.Body>
 
-                <Card.Link className='mt-4' style={{ float: "right", textDecoration: "none", fontSize: "1.5rem" }} href="#">Read More </Card.Link>
+                <Card.Link className='mt-2' style={{ float: "right", textDecoration: "none", fontSize: "1.5rem" }} href="#">Read More </Card.Link>
               </Card.Body>
             </Card>
           </Col>
